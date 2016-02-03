@@ -1,0 +1,1 @@
+If you are in an aquatic campaign, then it is a good idea to invest in a single rank in the sailor profession; this is because there are a couple of high level druid spells in the spell compendium, which are also offered by the ocean domain that require profession(sailor) checks that act as saving throws for the vessel. These spells are maelstrom and waterspout.

@@ -1,0 +1,1 @@
+Wild shape is an ability that has a duration that lasts hours; if you also count that the druid class is already tight on feats, then you are going to gain this at around 12th level, or 9th if you skip natural spell, which is not recommended.

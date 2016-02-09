@@ -1,1 +1,0 @@
-Regardless of the benefit, this feat requires two other [wild] feats, which means that the earliest that you can get this is level 12, 15 if you don't want to skip natural spell at your 6th slot. The feat is uninteresting and you can't even use it with the venomfire spell, because that only applies on creatures that naturally produce poison.

@@ -1,1 +1,1 @@
-# druid-handbook-content
+# Content## DruidStatic content for the 3.5e D&D druid guide.

@@ -1,1 +1,0 @@
-This initiate feat is a bit of greensinger and a bit of gatekeeper – it has aspects of both. It offers climb and jump as class skills for the druid class which might be useful for the beast archetype and some skill tricks.

@@ -1,1 +1,0 @@
-It would be much better if it enabled you to grow or shrink your size when you were in wild shape forms, the feat would be a lot more interesting and useful, but since staying in your normal form as a druid is something that you normally don't want to do, this feat is unfortunately, useless.

@@ -1,1 +1,0 @@
-This is an important skill if you want to use your animal companion as a mount, especially if you want to ride your animal companion in battle. If you attempt to ride a creature which is ill suited as a mount, then you get a -5 penalty on your ride checks.

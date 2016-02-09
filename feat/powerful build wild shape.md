@@ -1,1 +1,0 @@
-Another feat that is not needed due to the countless errata that have been published for wild shape. Alternate form mentions that the creature retains the special qualities of its original form; powerful build is a special quality, so it is retained, without needing this feat.

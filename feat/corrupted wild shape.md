@@ -1,1 +1,0 @@
-This is not needed – with the player's handbook errata, wild shape is now based off of the alternate form special ability, not polymorph. There are undead creatures that possess the alternate form ability (for instance, vampires) and they can alter their shape without needing corrupted wild shape.
